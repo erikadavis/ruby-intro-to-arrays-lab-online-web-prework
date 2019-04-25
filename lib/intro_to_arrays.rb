@@ -16,3 +16,8 @@ def third_element(array)
   my_third_element = ["element 1", "element 2", "element 3", "Style", "element 4"]
   return my_third_element[3]
 end
+
+def last_element(array)
+  my_last_element = ["element 1", "element 2", "element 3", "Out of the Woods"]
+  return my_last_element[-1]
+end
