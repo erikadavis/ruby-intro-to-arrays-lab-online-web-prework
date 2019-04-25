@@ -9,5 +9,5 @@ end
 
 def first_element(array)
   my_first_element = ["element 1", "element 2"]
-  return my_first-element.first
+  return my_first_element.first
 end
