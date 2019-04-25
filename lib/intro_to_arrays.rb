@@ -31,3 +31,8 @@ def last_element_with_array_methods(array)
   last_country = ["country 1", "country 2", "country 3", "Myanmar"]
   return last_country.last
 end
+
+def length_of_array(array)
+  length = ["element 1", "element 2", "element 3", "element 4", "element 5", "element 6", "element 7", "element 8"]
+  return length.length
+end
