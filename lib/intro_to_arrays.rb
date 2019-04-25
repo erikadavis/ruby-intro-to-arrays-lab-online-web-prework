@@ -19,5 +19,7 @@ end
 
 def last_element(array)
   my_last_element = ["element 1", "element 2", "element 3", "Out of The Woods"]
-  return my_last_element.last
+  return my_last_element[-1]
 end
+
+def 
