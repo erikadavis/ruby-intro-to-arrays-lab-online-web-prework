@@ -7,7 +7,6 @@ def array_with_two_elements
   return Array.new(2, "element")
 end
 
-def first_element(array, index_number)
-  my_first_element = ["Welcome to New York", "element 2"]
-  my_first_element[0]
+def first_element(array)
+  return [0]
 end
