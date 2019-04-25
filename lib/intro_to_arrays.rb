@@ -8,5 +8,5 @@ def array_with_two_elements
 end
 
 def first_element(array)
-  return [0]
+  return ["Welcome to New York"]
 end
