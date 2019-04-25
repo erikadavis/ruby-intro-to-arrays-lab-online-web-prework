@@ -26,3 +26,8 @@ def first_element_with_array_methods(array)
   first_country = ["Thailand", "country 2", "country 3", "country 4"]
   return first_country.first
 end
+
+def last_element_with_array_methods(array)
+  last_country = ["country 1", "country 2", "country 3", "Myanmar"]
+  return last_country.last
+end
